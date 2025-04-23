@@ -1,7 +1,4 @@
-# SumOfArray
-
-
-SumOfArray is a simple Java program that demonstrates how to calculate the sum of elements in an array using a for-each loop. The program initializes an array with a fixed set of integers and then computes and prints their sum.
+Sum of Array is a simple Java program that demonstrates how to calculate the sum of elements in an array using a for-each loop. The program initializes an array with a fixed set of integers and then computes and prints their sum.
 
 Features
 Iterates through an array of integers.
